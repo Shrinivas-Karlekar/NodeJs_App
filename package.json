@@ -1,0 +1,19 @@
+{
+  "name": "appnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
